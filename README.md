@@ -63,9 +63,6 @@ The path from `READ` to `WRITE` depends on `src_rvalid`; the path from `WRITE` t
 The `testbench/` directory contains:
 
 - `tb_dma_top.v` — top-level DMA testbench.
-- `tb_apb_only.v` — APB-focused testbench.
-- `tb_dut_only.v` — DUT-focused testbench.
-- `tb_clock_only.v` — clock-focused testbench.
 
 From the repository root, try compiling the top-level testbench with Icarus Verilog:
 
