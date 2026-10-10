@@ -76,10 +76,10 @@ Timing met the 50 MHz constraint in the reported run. Maximum operating frequenc
 ## Layout
 
 ### Placement
-![Placement](images/final_placement.webp.png)
+![Placement](images/placement.png)
 
 ### Routed Layout
-![Routed layout](images/final_routing.webp.png)
+![Routed layout](images/routing.png)
 
 ## Status
 
