@@ -1,0 +1,27 @@
+# Simulation outputs
+*.vcd
+*.fst
+*.lxt
+*.lxt2
+*.vvp
+apb_sim
+clock_sim
+config_sim
+dma_sim
+dut_sim
+start_sim
+
+# Build and temporary files
+*.o
+*.tmp
+*.log
+*.bak
+obj_dir/
+build/
+output/
+
+# Editor and OS files
+*~
+.vscode/
+.idea/
+.DS_Store
